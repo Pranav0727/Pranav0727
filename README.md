@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data-focused Engineer 1 at Semtech with hands-on experience in Excel and Python-based data analysis for subscription-based B2B business models.<br> Skilled in analyzing usage, revenue, and billing data to generate actionable insights.
+Data focused Engineer 1 at Semtech with hands on experience in Excel and Python-based data analysis for subscription-based B2B business models.<br> Skilled in analyzing usage, revenue, and billing data to generate actionable insights.
 <br> Proficient in Python (Pandas, NumPy, Matplotlib), MySQL for data querying, and Power BI for visualization and reporting.
 <br>Familiar with Machine Learning fundamentals and experienced with Apache Spark for large-scale data processing.
 
